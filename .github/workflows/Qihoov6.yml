@@ -14,7 +14,7 @@ on:
     - cron: '0 17 * * *'
 
 env:
-  REPO_URL: https://github.com/coolsnowwolf/lede
+  REPO_URL: https://github.com/koksaver/lede
   REPO_BRANCH: 7e39cd
   CONFIG_FILE: configs/qihoo.config
   FEEDS_CONF: feeds.conf.default
